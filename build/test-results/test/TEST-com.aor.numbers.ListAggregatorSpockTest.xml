@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aor.numbers.ListAggregatorSpockTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-12-17T17:03:00" hostname="pc-13-137.customer.ask4.lan" time="0.759">
+  <properties/>
+  <testcase name="Testing: sum" classname="com.aor.numbers.ListAggregatorSpockTest" time="0.004"/>
+  <testcase name="Testing: max" classname="com.aor.numbers.ListAggregatorSpockTest" time="0.002"/>
+  <testcase name="Testing: min" classname="com.aor.numbers.ListAggregatorSpockTest" time="0.001"/>
+  <testcase name="Testing: distinct" classname="com.aor.numbers.ListAggregatorSpockTest" time="0.007"/>
+  <testcase name="Testing max bug 7263" classname="com.aor.numbers.ListAggregatorSpockTest" time="0.0"/>
+  <testcase name="testing distinct bug 8726" classname="com.aor.numbers.ListAggregatorSpockTest" time="0.065"/>
+  <testcase name="testing distinct bug 8726 with expectation" classname="com.aor.numbers.ListAggregatorSpockTest" time="0.677"/>
+  <system-out><![CDATA[3
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aor.numbers.ListFiltererSpockTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-17T17:03:01" hostname="pc-13-137.customer.ask4.lan" time="0.021">
+  <properties/>
+  <testcase name="Testing: filter" classname="com.aor.numbers.ListFiltererSpockTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
